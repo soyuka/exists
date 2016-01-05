@@ -1,0 +1,22 @@
+{
+  "name": "@soyuka/exists",
+  "version": "1.0.0",
+  "description": "fs.exists polyfill",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha test.js"
+  },
+  "engines": {
+    "node": ">4.0"
+  },
+  "keywords": [
+    "fs",
+    "exists"
+  ],
+  "author": "soyuka",
+  "repository": "https://github.com/soyuka/exists",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^2.3.4"
+  }
+}
