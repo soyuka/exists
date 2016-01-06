@@ -1,3 +1,4 @@
+'use strict'
 const exists = require('./index.js')
 const assert = require('assert')
 
